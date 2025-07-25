@@ -36,8 +36,8 @@ The goal was to manage two models — **CharacteristicCategory** and **Character
 
 ### 1. Clone & install dependencies
     ```bash
-    git clone https://github.com/yourusername/filament-task.git
-    cd filament-task
+    git clone https://github.com/AlisaSiradeghyan/filament.git
+    cd filament
     composer install
     npm install
 
